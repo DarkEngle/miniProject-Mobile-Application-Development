@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Ghost\AndroidStudioProjects\MiniPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ghost\AndroidStudioProjects\MiniPro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Ghost\AndroidStudioProjects\MiniPro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21f16276bd024b28dfdacdc027afa9b26e5e988d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ghost\AndroidStudioProjects\MiniPro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7becb7ee20e7edd3d656da3df09e9a04778c48ec">
+        <dex dex="C:\Users\Ghost\AndroidStudioProjects\MiniPro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e4b7342ff9b1541e7d8749bf9fb81de64860c163\classes.dex" />
+    </item>
+
+</items>
